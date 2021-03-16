@@ -1,0 +1,4 @@
+﻿  WinsockClient.cpp
+C:\Users\varga\source\repos\WinsockClient\WinsockClient.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\varga\source\repos\WinsockClient\WinsockClient.cpp(110,21): warning C4018: '<': signed/unsigned mismatch
+  WinsockClient.vcxproj -> C:\Users\varga\source\repos\WinsockClient\Debug\WinsockClient.exe

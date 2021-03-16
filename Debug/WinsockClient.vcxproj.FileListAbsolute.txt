@@ -1,0 +1,2 @@
+C:\Users\varga\source\repos\WinsockClient\Debug\WinsockClient.exe
+C:\Users\varga\source\repos\WinsockClient\Debug\WinsockClient.pdb
